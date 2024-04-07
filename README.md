@@ -1,4 +1,3 @@
-Sure, here's an updated README file for your React application with the specific versions of the dependencies:
 
 ```markdown
 # React Product Listing Application
